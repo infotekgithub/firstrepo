@@ -6,7 +6,11 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello Everyone this is first Git class.");
+		System.out.println("Initial changes");
 		
+		int a, b;
+		a=10;
+		b=20;
 	}
 
 }
