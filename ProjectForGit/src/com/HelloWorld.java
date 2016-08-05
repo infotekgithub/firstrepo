@@ -13,7 +13,7 @@ public class HelloWorld {
 		b=20;
 		System.out.println("The sum of two numbers is: " + a+b);
 		
-		System.out.println("The multiplication of two numbers is: " + a*b);
+		System.out.println("The multiplication of two numbers is " + a*b);
 	}
 
 }
